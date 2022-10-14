@@ -26,7 +26,7 @@ public class TestAlert {
 
 		driver.findElement(By.name("proceed")).click();	
 
-		// New changes - Tester branch
+		// New changes - Tester branch  - making changes in github
 				
 		System.out.println("Changes");
 		
