@@ -24,10 +24,10 @@ public class TestAlert {
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 
 
-		driver.findElement(By.name("proceed")).click();
-		
-		// Making changes for git - main branch
-		
+		driver.findElement(By.name("proceed")).click();	
+
+		// New changes - Tester branch
+				
 		System.out.println("Changes");
 		
 		/*Alert alert = driver.switchTo().alert();
