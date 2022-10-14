@@ -26,7 +26,7 @@ public class TestAlert {
 
 		driver.findElement(By.name("proceed")).click();
 		
-		// Making changes for git 
+		// Making changes for git - main branch
 		
 		System.out.println("Changes");
 		
