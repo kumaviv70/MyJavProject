@@ -26,8 +26,8 @@ public class TestAlert {
 
 		driver.findElement(By.name("proceed")).click();
 		
-		// Making changes for git 
-		
+		// New changes
+				
 		System.out.println("Changes");
 		
 		/*Alert alert = driver.switchTo().alert();
